@@ -3,3 +3,6 @@
 
 # ignore all pdfs
 *.pdf
+
+*.tuc
+*.log
